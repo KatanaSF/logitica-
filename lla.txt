@@ -1,0 +1,4 @@
+import streamlit as st
+
+st.title("Hola, esta es mi app logística en Streamlit")
+st.write("Aquí subirás datos y verás gráficos pronto.")
